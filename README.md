@@ -14,3 +14,5 @@ A multivariable Cox proportional hazards model was fitted with age (continuous),
 
 Covariate-Adjusted Survival Curves
 Covariate-adjusted survival curves were generated using the direct standardisation method (adjustedCurves::adjustedsurv), with 1,000 bootstrap replicates for confidence interval estimation. Adjusted median survival and between-group differences at 12 months were quantified.
+
+_16 June 2024_
